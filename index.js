@@ -22,3 +22,6 @@ function dec (n) {
 function makeInt (n) {
   return parseInt ('n', 10)
 }
+
+makeInt ("10")
+makeInt ("nonsense")
