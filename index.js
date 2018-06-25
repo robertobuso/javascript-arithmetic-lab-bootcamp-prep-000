@@ -23,5 +23,5 @@ function makeInt (n) {
   return parseInt ('n', 10)
 }
 
-makeInt ("594")
+makeInt ("0x2328")
 makeInt ("nonsense")
