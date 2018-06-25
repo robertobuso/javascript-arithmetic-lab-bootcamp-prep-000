@@ -24,7 +24,7 @@ function makeInt (n) {
 }
 
 function makeInt (n) {
-  var nonsense = "nonsense"
+  var nonsense = "sldkjflksjf"
   return parseInt ('nonsense', 10)
 }
 
