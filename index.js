@@ -20,5 +20,6 @@ function dec (n) {
 }
 
 function makeInt (n) {
-  return parseInt ('n', 10)
+  return parseInt ('2.222', 10)
+  return parseInt ('nonsense', 10)
 }
