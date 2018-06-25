@@ -20,8 +20,8 @@ function dec (n) {
 }
 
 function makeInt (n) {
-  return parseInt ('n', 10)
+  var x = parseInt ('n', 10)
+  return x
 }
 
-makeInt ("0x2328")
-makeInt ("nonsense")
+
