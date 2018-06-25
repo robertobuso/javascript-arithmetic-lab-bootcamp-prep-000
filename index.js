@@ -20,7 +20,7 @@ function dec (n) {
 }
 
 function makeInt (n) {
-  var x = parseInt ('n', 10)
+  var x = parseInt ('339', 10)
   return x
 }
 
